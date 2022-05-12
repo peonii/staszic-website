@@ -4,7 +4,8 @@
     let pages = [
         { name: 'iPhone', desc: 'Kup już teraz gato gratis darmowe!', route: '/iphone' },
         { name: 'Zwierzę', desc: 'Zaliczenie na informatykę - 31/05/2022', route: '/zwierze' },
-        { name: 'Personal', desc: 'Osobista strona internetowa', route: 'https://querter.me/' }
+        { name: 'Personal', desc: 'Osobista strona internetowa', route: 'https://querter.me/' },
+        { name: 'Fembot', desc: 'Dosłownie fembot.dll', route: '/fembot' }
     ]
 </script>
 
