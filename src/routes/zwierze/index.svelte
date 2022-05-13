@@ -9,7 +9,7 @@
 <HomeButton />
 <h1 class="text-4xl text-center my-6 font-bold">Zwierzę w majówkę</h1>
 
-<p class="mx-10 bg-slate-200 p-4 rounded-2xl">
+<p class="mx-10 shadow-2xl p-4 rounded-2xl">
     Moję zwierzę gatunku <a href="https://pl.wikipedia.org/wiki/Pies_domowy" class="italic underline">Canis familiaris</a> obudziło się o godzinie 5:35.
     <br>
     Następnie poszło do kuchni, gdzie było zaskoczone brakiem pożywienia.
@@ -30,6 +30,6 @@
     <br>
     W lesie znalazł się zwierzak gatunku <a href="https://pl.wikipedia.org/wiki/Pies_domowy" class="italic underline">Canis familiaris</a>.
 </p>
-<p class="mx-10">
-    <span class="italic">Wygenerowane przez AI - <a class="underline" href="https://copilot.github.com">Github Copilot</a></span>
+<p class="mx-10 mt-20">
+    <span class="italic text-neutral-300">Wygenerowane przez AI - <a class="underline" href="https://copilot.github.com">Github Copilot</a></span>
 </p>

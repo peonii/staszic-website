@@ -23,6 +23,6 @@
     {/each}
 </div>
 
-<div class="select-none cursor-default text-slate-200 text-2xl md:text-3xl lg:text-4xl text-center my-32 animate-pulse">
+<div class="select-none cursor-default text-slate-200 text-2xl md:text-3xl lg:text-4xl text-center my-32 animate-bounce">
     More sites coming soon...
 </div>
